@@ -18,8 +18,6 @@ University of Granada \\
 \maketitle
 
 
-\section{Introduction} 
-
 Evolutionary Algorithms (EAs) were conceived as heuristic techniques 
 capable of addressing hard optimization problems 
 \citep{DBLP:books/daglib/0015527},  but their possibilities as a source of
@@ -34,14 +32,9 @@ performed by human beings in an interactive fashion. Examples of web-based IEAs 
 those by \cite{picbreeder} and \cite{forms}
 use  to evolve artistic artifacts using a generative encoding, compositional
 pattern producing networks, both presented on the web.
-%In IEAs the main evolutionary loop includes the human intervention for quality assessment of evolved solutions. 
-% JJ- this is reiterative 
 There is an inherent drawback in the human fatigue caused by the repeated evaluation, and some authors have
 already tried to address this \citep{Frade:2010:EvoGAMES}, for instance simplifying the interface to show a single button \citep{davies2016evolving}. %how? - JJ
-%  Both works offer webpages (see Picbreeder.org and
-% EndlessForms.com), where users can select or create random individuals and
-% evolve lineages of artifacts based on their preferences.
-% JJ - also a bit reiterative
+
 
 The present installation builds on a previous work \citep{garcia2013evospace}
 but this version is directly inspired by the 1997 Galápagos interactive 
@@ -64,7 +57,6 @@ emerge by the relations of multiple forms and their behavior.
 \label{fig:system}
 \end{figure*}
 
-\section{Description of the Artistic Project} 
 The EvoDraw installation is an IEA in which viewers interact with animations by simply
 looking at them. Drawings emerge from animations scripted in the Processing 
 language, and each is configured by a list of parameters represented by their
@@ -89,11 +81,8 @@ basic expressive information, and if the face has glasses, which are used to com
 presented several times in a single generation and the best are always passed to the next, with its fitness recomputed. To generate the new population GA operators
 are applied to the population. One or more client computers are needed in order to run the 
 installation, each needing a Kinect sensor to keep track of viewers. 
-% Other interfaces to
-% the system could be combined, for instance to allow user with a smart-phone to directly assign
-% a rating to each animation or to see their genetic ancestry.
-% JJ this is more future work. 
-\section{Technical Elements of the Installation}
+
+
 The hardware components of the installation are presented in Figure \ref{fig:system}. A
 minimum of one station is needed. Each stations consists of a small computer, needed 
 to run the Kinect application and to show a web page where the animation is displayed, 
