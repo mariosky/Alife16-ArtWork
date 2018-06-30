@@ -1,0 +1,49 @@
+\begin{thebibliography}{}
+
+\bibitem[Clune and Lipson, 2011]{forms}
+Clune, J. and Lipson, H. (2011).
+\newblock Evolving three-dimensional objects with a generative encoding
+  inspired by developmental biology.
+\newblock In {\em Proceedings of the European Conference on Artificial Life},
+  pages 144--148.
+
+\bibitem[Davies et~al., 2016]{davies2016evolving}
+Davies, E., Tew, P., Glowacki, D., Smith, J., and Mitchell, T. (2016).
+\newblock Evolving atomic aesthetics and dynamics.
+\newblock In {\em Evolutionary and Biologically Inspired Music, Sound, Art and
+  Design}, pages 17--30. Springer.
+
+\bibitem[Frade et~al., 2010]{Frade:2010:EvoGAMES}
+Frade, M., {Fernandez de Vega}, F., and Cotta, C. (2010).
+\newblock Evolution of artificial terrains for video games based on
+  accessibility.
+\newblock In {Di Chio}, C., Cagnoni, S., Cotta, C., Ebner, M., Ekart, A.,
+  Esparcia-Alcazar, A.~I., Goh, C.-K., Merelo, J.~J., Neri, F., Preuss, M.,
+  Togelius, J., and Yannakakis, G.~N., editors, {\em EvoGAMES}, volume 6024 of
+  {\em LNCS}, pages 90--99, Istanbul. Springer.
+
+\bibitem[Garc{\'\i}a-Valdez et~al., 2013]{garcia2013evospace}
+Garc{\'\i}a-Valdez, M., Trujillo, L., de~Vega, F.~F., Guerv{\'o}s, J. J.~M.,
+  and Olague, G. (2013).
+\newblock Evospace-interactive: A framework to develop distributed
+  collaborative-interactive evolutionary algorithms for artistic design.
+\newblock {\em Machado et al.[MMC13]}, pages 121--132.
+
+\bibitem[Reas~Sims, 2010]{reas:2004}
+Reas~Sims, C. (2004-2010).
+\newblock Process compendium.
+\newblock [Online; accessed 1-April-2016].
+
+\bibitem[Secretan et~al., 2011]{picbreeder}
+Secretan, J., Beato, N., D'Ambrosio, D.~B., Rodriguez, A., Campbell, A.,
+  Folsom-Kovarik, J.~T., and Stanley, K.~O. (2011).
+\newblock Picbreeder: A case study in collaborative evolutionary exploration of
+  design space.
+\newblock {\em Evol. Comput.}, 19(3):373--403.
+
+\bibitem[Sims, 1997]{galapagos}
+Sims, K. (1997).
+\newblock Gal{\'a}pagos.
+\newblock [Online; accessed 1-April-2016].
+
+\end{thebibliography}
